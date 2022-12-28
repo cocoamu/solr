@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+
+
+spring:
+  data:
+    solr:
+      host: http://127.0.0.1:8983/solr  #\u8FD9\u8FB9\u6700\u540E\u53EF\u4EE5\u8DDF\u4E0A\u6587\u4EF6\u5939\u540D\uFF0C\u540E\u9762\u589E\u5220\u6539\u67E5\u90FD\u53EF\u4EE5\u4E0D\u7528\u4F20\uFF0C\u6BD4\u5982http://127.0.0.1:8983/solr/test
